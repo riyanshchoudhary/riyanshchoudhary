@@ -14,7 +14,9 @@ Building ultra-low latency interactive applications, cinematic web systems, and 
 
 ### Connect with me:
 <p align="left">
-<a href="https://x.com/Riyanshc54" target="blank"><img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Riyansh Twitter" /></a>
+<a href="https://x.com/Riyanshc54" target="blank">
+<img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Riyansh Twitter" />
+</a>
 </p>
 
 ---
@@ -54,15 +56,6 @@ Building ultra-low latency interactive applications, cinematic web systems, and 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-</p>
-
----
-
-### Production Metrics & Insights
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=riyanshchoudhary&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Riyansh's GitHub Stats" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=riyanshchoudhary&theme=dark&hide_border=true&background=0d1117" alt="Riyansh's Streak Stats" height="160" />
 </p>
 
 ---
