@@ -13,33 +13,13 @@ Building ultra-low latency interactive applications, cinematic web systems, and 
 ---
 
 ### Connect with me:
-<p align="left">
-<a href="https://x.com" target="blank"><img src="https://shields.io" alt="Riyansh Twitter" /></a>
-</p>
+* **Twitter/X:** [@Riyanshc54](https://x.com)
 
 ---
 
 ### Languages and Tools:
-<p align="left">
-  <img src="https://jsdelivr.net" alt="html5" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="css3" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="javascript" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="typescript" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="react" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="nextjs" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="nodejs" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="electron" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="tailwind" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="python" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="git" width="40" height="40"/>
-</p>
 
----
-
-<p align="left">
-<img src="https://vercel.app" alt="Riyansh's GitHub Stats" height="160" />
-<img src="https://herokuapp.com" alt="Riyansh's Streak Stats" height="160" />
-</p>
+`HTML5` | `CSS3` | `JavaScript` | `TypeScript` | `React` | `Next.js` | `Node.js` | `Electron` | `Tailwind CSS` | `Python` | `Git`
 
 ---
 
